@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "3... 2... 1... Lift off!"
+date:   2017-03-03 13:16:05 -0500
+categories: tribesat update
+---
+"We have lift off!" The TribeSat project is now officially underway, aiming for a launch in October 2018 on the second stage of Orbital ATK's Antares launch vehicle
+(catching a ride on an ISS commercial resupply mission).
+
+Stay tuned as we move forward with this project. Follow us on twitter @tribesat.
